@@ -17,7 +17,7 @@ The Boston Housing Dataset is a derived from information collected by the U.S. C
 - B - 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
 - LSTAT - % lower status of the population
 - PRICE -  Median value of owner-occupied homes in 1000's dollars
-- 
+ 
 
 ## Links -
 I've shared all the necessary files, datasets, and workbooks above. Please feel free to utilize these resources for your upcoming projects. If you find value in this project, consider giving it a star or simply let me know. Your feedback would be greatly appreciated!
